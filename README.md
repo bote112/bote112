@@ -1,6 +1,6 @@
 # Hello!
 
- I'm Botezatu Cosmin-Adrian, a second-year Computer Science student at the University of Bucharest. 
+ I'm Botezatu Cosmin-Adrian, a third-year Computer Science student at the University of Bucharest. 
 
 ## About Me:
 
