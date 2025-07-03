@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning <b> Java, Unreal Engine, Data Science</b>.
+- 🌱 I’m currently learning <b>deep reinforcement learning and cloud-computing</b>.
 - 📫 How to reach me: cosmin.botezatu@gmail.com
 - ✨ Fun fact: I like to capture life’s spontaneity through street photography.
   
